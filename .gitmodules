@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LTRCforests"]
+	path = LTRCforests
+	url = https://github.com/weichiyao/ltrcforests
+	shallow = true
+	registered = true
