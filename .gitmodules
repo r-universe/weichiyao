@@ -8,8 +8,3 @@
 	url = https://github.com/cran/ICcforest
 	shallow = true
 	registered = true
-[submodule "LTRCforests"]
-	path = LTRCforests
-	url = https://github.com/weichiyao/ltrcforests
-	shallow = true
-	registered = true
